@@ -14650,6 +14650,7 @@
       "cost": 0,
       "cast_range": 3,
       "radius": 5,
+      "c": "36958",
       "help_html": "Deals damage to all nearby enemies with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\u003Cbr/\u003E\u003Cem class=\"lime\"\u003EAdditional Effect\u003C/em\u003E: Afflicts target with Kunai's Bane\u003Cbr/\u003E\u003Cem class=\"lime\"\u003EKunai's Bane Effect\u003C/em\u003E: Increases damage you deal target by 10%\u003Cbr/\u003E\u003Cem class=\"lime\"\u003EDuration\u003C/em\u003E: 15s\u003Cbr/\u003ECan only be executed while Hidden.",
       "icon": "Kunai's Bane"
     },
