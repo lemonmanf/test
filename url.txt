@@ -1,1 +1,1 @@
-https://ffxivrotations.com/db.json
+https://raw.githubusercontent.com/lemonmanf/test/main/db.json
