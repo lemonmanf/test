@@ -484,7 +484,7 @@ ClassName,ActionName,GameIdx,DBIdx
 "Ninja","Forked Raiju",0,711
 "Ninja","Fleeting Raiju",0,712
 "Ninja","Dokumori",0,889
-"Ninja","Kunai's Bane",0,902
+"Ninja","Kunai's Bane",999999,902
 "Ninja","Deathfrog Medium",0,903
 "Ninja","Zesho Meppo",0,904
 "Ninja","Tenri Jindo",0,905
