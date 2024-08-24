@@ -141,14 +141,14 @@ ClassName,ActionName,GameIdx,DBIdx
 "Black Mage","Despair",16505,247
 "Black Mage","Umbral Soul",16506,248
 "Black Mage","Xenoglossy",16507,249
-"Black Mage","High Fire II",0,490
-"Black Mage","High Blizzard II",0,491
-"Black Mage","Amplifier",0,492
-"Black Mage","Paradox",0,493
-"Black Mage","High Thunder",0,514
-"Black Mage","High Thunder II",0,515
-"Black Mage","Retrace",0,516
-"Black Mage","Flare Star",0,517
+"Black Mage","High Fire II",25794,490
+"Black Mage","High Blizzard II",25795,491
+"Black Mage","Amplifier",25796,492
+"Black Mage","Paradox",25797,493
+"Black Mage","High Thunder",36986,514
+"Black Mage","High Thunder II",36987,515
+"Black Mage","Retrace",36988,516
+"Black Mage","Flare Star",36989,517
 "Black Mage","Ley Lines",3573,3573
 "Black Mage","Sharpcast",3574,3574
 "Black Mage","Enochian",3575,3575
@@ -484,7 +484,7 @@ ClassName,ActionName,GameIdx,DBIdx
 "Ninja","Forked Raiju",0,711
 "Ninja","Fleeting Raiju",0,712
 "Ninja","Dokumori",0,889
-"Ninja","Kunai's Bane",999999,902
+"Ninja","Kunai's Bane",36958,902
 "Ninja","Deathfrog Medium",0,903
 "Ninja","Zesho Meppo",0,904
 "Ninja","Tenri Jindo",0,905
